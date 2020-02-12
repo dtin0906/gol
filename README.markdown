@@ -9,3 +9,4 @@ Test Build Trigger
 Test Build Trigger
 Test Build Trigger
 build away
+Reinstalled with docker and then rebuilt everything. Testing polling
